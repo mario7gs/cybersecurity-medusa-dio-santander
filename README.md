@@ -1,5 +1,10 @@
 
 # 🔐 Cybersecurity Project – DIO/Santander Bootcamp
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Made with](https://img.shields.io/badge/made%20with-Kali%20Linux-red)
+![Pentest](https://img.shields.io/badge/type-pentest-critical)
+![Bootcamp](https://img.shields.io/badge/bootcamp-DIO%2FSantander-purple)
 
 This project simulates brute-force attacks in a controlled environment using **Kali Linux**, tools like **Hydra**, **Medusa**, **Enum4linux**, and **Smbmap**, targeting vulnerable systems such as **Metasploitable 2** and **DVWA**. The goal is to demonstrate offensive pentesting techniques and propose effective defensive measures.
 
