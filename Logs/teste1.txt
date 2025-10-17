@@ -1,0 +1,2 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-16 16:39 CEST
+Nmap scan report for 10.0.2.15
